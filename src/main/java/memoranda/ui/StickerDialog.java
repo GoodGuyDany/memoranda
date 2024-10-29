@@ -216,7 +216,7 @@ public class StickerDialog extends JDialog {
 
 		jLabel1.setText(Local.getString("STICKER COLOR PLEASE MAN")+": ");
 		jLabel2.setText(Local.getString("FONT COLOR PLEASE MAN")+": ");
-		jLabel3.setText(Local.getString("Font Size")+": ");
+		jLabel3.setText(Local.getString("FONT SIZE PLEASE MAN")+": ");
 		jLabel4.setText(Local.getString("Priority")+": ");
 		jPanel1.setLayout(gridLayout1);
 		panel1.setBorder(border1);
