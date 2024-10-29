@@ -214,7 +214,7 @@ public class StickerDialog extends JDialog {
             "/ui/icons/sticker48.png")));
 		//header.setHorizontalAlignment(SwingConstants.LEFT);
 
-		jLabel1.setText(Local.getString("Sticker color")+": ");
+		jLabel1.setText(Local.getString("STICKER COLOR PLEASE MAN")+": ");
 		jLabel2.setText(Local.getString("Font color")+": ");
 		jLabel3.setText(Local.getString("Font Size")+": ");
 		jLabel4.setText(Local.getString("Priority")+": ");
